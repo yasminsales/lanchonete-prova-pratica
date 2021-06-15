@@ -1,0 +1,13 @@
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.exe
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.deps.json
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.runtimeconfig.json
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.runtimeconfig.dev.json
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.dll
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\bin\Debug\netcoreapp3.1\lanchonete_prova_pratica.pdb
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.csprojAssemblyReference.cache
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.AssemblyInfoInputs.cache
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.AssemblyInfo.cs
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.dll
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.pdb
+C:\Users\yasmi\source\repos\lanchonete_prova_pratica\lanchonete_prova_pratica\obj\Debug\netcoreapp3.1\lanchonete_prova_pratica.genruntimeconfig.cache
